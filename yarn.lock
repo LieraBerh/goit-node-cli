@@ -67,11 +67,6 @@ debug@^4:
   dependencies:
     ms "2.1.2"
 
-detect-file-encoding-and-language@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/detect-file-encoding-and-language/-/detect-file-encoding-and-language-2.4.0.tgz#0633b81fbe977c47b82b41c1732aa4534add8541"
-  integrity sha512-moFSAumrGlLCNU5jnaHyCzRUJJu0BCZunfL08iMbnDAgvNnxZad7+WZ26U2dsrIbGChlDPLKmEyEb2tEPUJFkw==
-
 fill-range@^7.1.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.1.1.tgz#44265d3cac07e3ea7dc247516380643754a05292"
